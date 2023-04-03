@@ -6,7 +6,7 @@
 
 - [@CptZee](https://www.github.com/CptZee) - Backend Programmer
 - [@ellyxxvi](https://www.github.com/ellyxxvi) - Frontend Developer
-- [@GabsyDev](https://www.github.com/GabsyDev) - Team Captain
+- [@GabsyDev](https://www.github.com/GabsyDev) - Team Captain, Developer
 
 
 ## Features
